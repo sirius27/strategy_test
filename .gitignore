@@ -1,0 +1,7 @@
+# sys
+.swp
+# python
+*.pyc
+# my config
+.idea/
+*.rtab
